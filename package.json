@@ -12,7 +12,7 @@
     "prettier": "^2.5.1",
     "turbo": "latest"
   },
-  "name": "cardonomics-fe-mono",
+  "name": "turborepo-example",
   "packageManager": "npm@9.6.4",
   "workspaces": [
     "apps/*",
